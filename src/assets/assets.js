@@ -2,7 +2,7 @@ import avatar_icon from "./avatar_icon.png";
 import gallery_icon from "./image_button.gif";
 import help_icon from "./help_icon.gif";
 import logo_icon from "./logomain.gif";
-import logo_big from "./sidemain.png";
+import logo_big from "./Sidemain.png";
 import logo from "./logomain.gif";
 import profile_richard from "./profile_richard.png";
 import profile_alison from "./profile_alison.png";

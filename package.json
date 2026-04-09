@@ -5,9 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "echo Building... && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+  },
+  "engines": {
+  "node": "18.x"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.2.1",

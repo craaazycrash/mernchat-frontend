@@ -248,7 +248,7 @@ const ChatContainer = ({ setShowRightSidebar }) => {
             border: "none",
           }}
         >
-          <img src={assets.send_button} alt="" className="w-5" />
+          <img src={assets.send_button} alt="" className="w-7" />
         </button>
       </div>
     </div>

@@ -12,7 +12,7 @@ const App = () => {
   if (loading) return <div>Loading...</div>;
   
   return (
-    <div className= "bg-[url('./src/assets/background.jpg')] bg-contain">
+    <div>
       <Toaster/>
       <Routes>
         <Route path='/' element={authUser ? <HomePage /> : <Navigate to = "/login" />} />
